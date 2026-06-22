@@ -31,8 +31,7 @@ sprint01-python-basico/
 
 ## ▶️ Como visualizar
 
-Abra o arquivo `notebook.ipynb` diretamente no GitHub ou visualize pelo link:  
-👉 [Ver no nbviewer](https://nbviewer.org/github/SEU-USUARIO/sprint01-python-basico/blob/main/notebook.ipynb)
+👉 [Abrir no Google Colab](https://colab.research.google.com/github/LucasSvieira97/sprint01-python-basico/blob/main/notebook.ipynb)
 
 ## 📌 Resultado
 
