@@ -31,7 +31,7 @@ sprint01-python-basico/
 
 ## ▶️ Como visualizar
 
-👉 [Abrir no Google Colab](https://colab.research.google.com/github/LucasSvieira97/sprint01-python-basico/blob/main/notebook.ipynb)
+👉 [Abrir no Google Colab](https://colab.research.google.com/github/LucasSvieira97/tripleten-sprint-01-phyton-basico/blob/main/notebook.ipynb) 
 
 ## 📌 Resultado
 
